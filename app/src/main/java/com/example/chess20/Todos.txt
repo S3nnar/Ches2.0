@@ -9,7 +9,7 @@ Next:
 Bugs:
 - Schwarzer Läufer ploppt beim Materialcount von Weiß auf
 
-
+    test
 
 - Materialcount                                 /done
 - Promotion                                     /done
