@@ -1,0 +1,52 @@
+Next:
+- Nach jedem Zug die Position neu speichern
+- Festlegen auf MoveList oder PosiotionsList
+- Settings (Alles)
+- Extra Infos in "Game" speichern (Erstelldatum, LetztesMalGespielt, Zugliste, ID)
+- Weiterspielen von "Game" bei klick auf ListView
+- Möglichkeit Spiel zu löschen
+
+Bugs:
+- Schwarzer Läufer ploppt beim Materialcount von Weiß auf
+
+
+
+- Materialcount                                 /done
+- Promotion                                     /done
+- Highlight last move                           /done
+- Deselection of piece                          /done
+- Zugrücknahme                                  /done
+- Schachmatt/Stalemate erkennen                 /do
+- Position String vervollständigen
+- Stellungen speichern
+- Auf Wiederholung von Positionen überprüfen
+- Schwarze Figuren weiß umranden
+- Squareerkennung durch Koordinaten verbessern (nicht hardcoden)
+- Sounds
+- Zugzeiten
+- Züge durchgehen
+- Stellung aufbauen
+- Matches speichern (Statistiken) aktivieren oder deaktivieren
+- Zeiten
+- Bedrohte Felder highlighten
+- Eigene Bilder als Figuren hochladen
+- Spielvarianten:
+    - CrazyHouse
+    - Würfel
+    - Ereignisfelder
+    - Horde
+    - Blind
+- Copy position to clipboard
+- (Engine einbauen)
+- (DeepLübersetzung)
+- Einstellungen:
+    - Colorpicker für Feldfarben, Highlighting
+    - Highlighting aktivieren/deaktivieren
+
+
+Weitere Spiele:
+- Reversie
+- 4 gewinnt
+- Dame
+- Mühle
+- Backgammon
